@@ -1,0 +1,23 @@
+{
+  "node": true,
+  "browser": true,
+  "eqeqeq": true,
+  "eqnull": true,
+  "latedef": true,
+  "undef": true,
+  "newcap": true,
+  "indent": 2,
+  "debug": true,
+  "curly": false,
+  "camelcase": true,
+  "unused": "vars",
+  "strict": false,
+  "globals": {
+    "Modernizr": true,
+    "moment": true,
+    "Backbone": true,
+    "angular": true,
+    "$": true,
+    "_": true
+  }
+}
